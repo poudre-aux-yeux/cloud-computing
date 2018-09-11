@@ -21,3 +21,4 @@ Commandes Vagrant :
   - `exit` to quit the VM
 - `vagrant suspend` to suspend the VM
 - `vagrant destroy` to destroy the entire VM
+- `vagrant up --provision` to update new config from Vagrantfile
